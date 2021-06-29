@@ -5,7 +5,7 @@ public class Operators {
         int valor1 = 10;
         int valor2 = 20;
         int somaDosValores = valor1+valor2;
-        int diferencaDosValores = valor2-valor1;
+        int diferencaDosValores = valor1-valor2;
         int produtoDosValores = valor1*valor2;
         int divisaoDosValores = valor2/valor1;
 
