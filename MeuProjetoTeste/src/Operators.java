@@ -8,6 +8,7 @@ public class Operators {
         int diferencaDosValores = valor1-valor2;
         int produtoDosValores = valor1*valor2;
         int divisaoDosValores = valor2/valor1;
+        int restoDivisao = valor2%valor1;
 
         System.out.println("A soma dos valores informados é "+somaDosValores);
 
@@ -16,6 +17,8 @@ public class Operators {
         System.out.println("O produto dos valores informados é "+produtoDosValores);
 
         System.out.println("A divisão dos valores informados é "+divisaoDosValores);
+
+        System.out.println("O resto da divisão dos valores informados é "+restoDivisao);
 
     }
 }
